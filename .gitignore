@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 .DS_Store
-=======
+
 # Compiled class file
 *.class
 
@@ -22,7 +21,9 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
->>>>>>> b2f0323205d6792d8080b8fa32d2db6ad2dfb2f1
+
+# IDE
+.idea/
